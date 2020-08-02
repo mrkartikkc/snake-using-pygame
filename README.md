@@ -1,2 +1,2 @@
 # snake-using-pygame
-##Pygame module required
+## Pygame module required
